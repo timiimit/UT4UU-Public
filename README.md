@@ -1,7 +1,7 @@
 # Unreal Tournament 4 Unofficial Update
 Since Epic Games kinda suspended the development of new Unreal Tournament I decided to create something which could add new features to the game. UT4UU is the resulting creation.
 
-UT4UU is essentially just a plugin with a nice installer for it. If you want, it can also upgrade some of the game modules. UT4UU is practically limitless of what it can change in UT4. It is supported on both *Windows* and *Linux* operating systems and it works in the *game*, *server* and *editor*. While some mutators may already provide some of the same features, UT4UU makes it possible for them to work across the whole game, not just in specific servers.
+UT4UU is essentially just a plugin with a nice installer for it. If you want, it can also upgrade some of the game modules. UT4UU is practically limitless of what it can potentially change in UT4. It is supported on both *Windows* and *Linux* operating systems and it works in the *game*, *server* and *editor*. While some mutators may already provide some of the same features, UT4UU makes it possible for them to work across the whole game, not just in specific servers.
 
 Due to the nature of this plugin it could potentially be expanded upon to create cheats, that is why it is currently not open-source. This repository is just meant to be used to track bugs, feature requests and other matters regarding UT4UU.
 
