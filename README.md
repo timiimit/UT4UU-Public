@@ -5,12 +5,15 @@ UT4UU is essentially just a plugin with a nice installer for it. If you want, it
 
 Due to the nature of this plugin it could potentially be expanded upon to create cheats, that is why it is currently not open-source. This repository is just meant to be used to track bugs, feature requests and other matters regarding UT4UU.
 
-# notable features
+## notable features
  - Faster game startup
  - Faster pak downloading
  - Remove HUD clutter in gameplay
  - See which of your friends are playing and interact with them
  - Many more
+ 
+## Download
+You can find all releases [here](https://github.com/timiimit/UT4UU-Public/releases).
 
 ## Report a bug or request a feature
 Create new issues [here](https://github.com/timiimit/UT4UU-Public/issues).
