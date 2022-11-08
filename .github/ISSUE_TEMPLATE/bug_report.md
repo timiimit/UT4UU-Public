@@ -25,8 +25,8 @@ If applicable, add screenshots or videos to help explain your problem.
 
 **System Information (please complete the following information):**
  - OS: [e.g. Windows 11]
- - Program: [Game, Server or Editor]
- - Version [find the version you are using by entering command `uu info` into the console]
+ - Build Configuration: [Game, Server or Editor]
+ - Version [e.g. v10.0b5; find with `uu info`]
 
 **Additional context**
 Add any other context about the problem here.
