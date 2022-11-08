@@ -13,7 +13,7 @@ Due to the nature of this plugin it could potentially be expanded upon to create
  - Many more
  
 ## Download
-You can find all releases [here](https://github.com/timiimit/UT4UU-Public/releases).
+You can find all releases [here](https://github.com/timiimit/UT4UU-Public/releases). Note that those that are marked as `pre-release` are not recommended for download as they could be unstable and may contain bugs.
 
 ## Report a bug or request a feature
 Create new issues [here](https://github.com/timiimit/UT4UU-Public/issues).
