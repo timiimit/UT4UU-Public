@@ -22,4 +22,4 @@ Create new issues [here](https://github.com/timiimit/UT4UU-Public/issues).
 Anyone is welcome to work on and improve [the UT4UU wiki](https://github.com/timiimit/UT4UU-Public/wiki) which should contain all knowledge about UT4UU. If you have question about something that is missing in the wiki, you are welcome to ask the creator of UT4UU, `timiimit` on discord.
 
 ## Contact
-Join our [Discord Server](https://discord.gg/2DaCWkK) if you have further questions or just want to chat with other UT4UU users.
+Join our [Discord Server](https://discord.gg/2DaCWkK) if you have further questions or just want to chat with other users.
