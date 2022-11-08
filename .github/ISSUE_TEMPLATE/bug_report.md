@@ -24,8 +24,9 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots or videos to help explain your problem.
 
 **System Information (please complete the following information):**
- - OS: [e.g. "Windows 11"]
- - Version [e.g. "v10.0b5", (find the version you are using by entering command `uu info` into the console)]
+ - OS: [e.g. Windows 11]
+ - Program: [Game, Server or Editor]
+ - Version [find the version you are using by entering command `uu info` into the console]
 
 **Additional context**
 Add any other context about the problem here.
